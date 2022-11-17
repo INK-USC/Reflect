@@ -2,11 +2,12 @@
 Data and Code for Paper "Reflect Not Reflex: Inference-Based Common Ground Improves Dialogue Response Quality" (EMNLP 2022)
 
 [Project Website] (https://inklab.usc.edu/Reflect/)
+
 [Paper] (https://inklab.usc.edu/Reflect/)
 
 **Reflect** is a dataset that annotates dialogues with explicit CG (materialized as inferences approximating shared knowledge and beliefs) and solicits 9k diverse human-generated responses each following one common ground.
 
-<img src="http://inklab.usc.edu/Reflect/reflect_data" width="700">
+<img src="./reflect_data.png" width="700">
 
 ## Content
 - `data` contains our main dataset (`data/organized_Reflect_9k_responses.json`) in json file. Each dictionary in the file contains the following keywards: 
