@@ -22,8 +22,7 @@ Data and Code for Paper "Reflect Not Reflex: Inference-Based Common Ground Impro
     - `utterances`: the dialogue history as a list of utterances (the first speaker is always the person in `speaker` ); 
 
 
-- `exps` contains code we used to fine-tune BlenderBot on Reflect and some generated results from BlenderBot and GPT-3.
-
+- `exps` contains code we used to fine-tune BlenderBot on Reflect and GPT-3 scripts.
 
 
 ## Contact
