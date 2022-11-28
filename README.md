@@ -5,7 +5,9 @@ Data and Code for Paper "Reflect Not Reflex: Inference-Based Common Ground Impro
 
 [Paper] (https://arxiv.org/abs/2211.09267)
 
-**Reflect** is a dataset that annotates dialogues with explicit CG (materialized as inferences approximating shared knowledge and beliefs) and solicits 9k diverse human-generated responses each following one common ground.
+**Reflect** is a dataset that annotates dialogues with explicit CG (materialized as inferences approximating shared knowledge and beliefs) and solicits diverse human-generated responses each following one common ground.
+
+**Reflect** contains 9000 diverse responses from 600 dialogue contexts, based on 5 inference dimensions for CG. We collect three responses for each inference dimension, so there are 15 diverse responses for each dialogue context.
 
 <img src="./reflect_data.png" width="700">
 
