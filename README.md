@@ -3,7 +3,7 @@ Data and Code for Paper "Reflect Not Reflex: Inference-Based Common Ground Impro
 
 [Project Website] (https://inklab.usc.edu/Reflect/)
 
-[Paper] (https://inklab.usc.edu/Reflect/)
+[Paper] (https://arxiv.org/abs/2211.09267)
 
 **Reflect** is a dataset that annotates dialogues with explicit CG (materialized as inferences approximating shared knowledge and beliefs) and solicits 9k diverse human-generated responses each following one common ground.
 
